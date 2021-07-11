@@ -9,3 +9,5 @@ Mail Send Test 완료
 #Server 기능
 1. node express 
 2. ejs (Embedded JavaScript templating) 자바스크립트와 html 같이 사용할 수 있는 템플릿
+3. Database PostgreSQL 
+4. dotenv 를 이용, process.env 관리 config 사용
